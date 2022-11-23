@@ -1,0 +1,179 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    color: white;
+}
+
+body{
+   background-color: #213435; 
+}
+
+section{
+    align-items: center;
+    margin-top: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+h4{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+section{
+    align-items: center;
+    margin: 30px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    
+    background-color: #213435;
+    border: 0ch;
+    padding: 5px;
+}
+
+button:hover{
+    
+    background-color: white;
+    color: black;
+}
+
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: #46685b;
+    display: flex;
+   align-items: center;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+img{
+    width: 350px;
+    height: 300px;
+    border-radius: 3px;
+}
+
+
+
+.nav_div{
+    text-align: left;
+    margin: 50px;
+    position: absolute;
+}
+
+.nav_div a{
+    background-color: #213435;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav_div a:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
+.titulo{
+    text-align: center;
+}
+
+#indice_actividades{
+    background-color: #e1e3ac;
+    padding: 20px;
+    margin: 12px 50px;
+    border-radius: 10px;
+}
+
+.indice_actividad{
+    background-color: #46685b;
+    margin: 50px;
+    padding:30px;
+    border-radius: 5px;
+}
+
+.body_tareas{
+    background-color: #648a64;
+}
+
+.contenedor{
+    align-content: center;
+    margin: 20px 40px;
+}
+
+.div_boton{
+    background-color: aliceblues;
+    
+}
+.div_img{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.t5_div{
+    background-color: #213435;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+.programa{
+    margin-bottom: 30px;
+}
+
+.t6_botones{
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.t6_bt{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.titulo.titulo_esp{
+    margin-top: 20px;
+}
+
+.tabla{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #213435;
+    border-radius: 5px;
+}
